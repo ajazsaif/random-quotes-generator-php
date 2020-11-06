@@ -9,4 +9,11 @@ $quote = new \RandomQuotes\RandomQuotes();
 
 print_r($quote->generate());
 
-echo "\n"; </code>
+echo "\n"; 
+outpt:- Array
+(
+    [quoteAuthor] => Rumi
+    [quoteText] => Let yourself be silently drawn by the stronger pull of what you really love.
+)
+
+</code>
