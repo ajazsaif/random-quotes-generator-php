@@ -1,6 +1,8 @@
 {
     "name": "ajaz/random-quotes-generator-php",
     "description": "This library will generate random quotes",
+    "keywords": ["php", "random-quotes-generator"],
+    "homepage": "https://github.com/ajazsaif/random-quotes-generator-phpp",
     "type": "library",
     "license": "MIT",
     "authors": [{
